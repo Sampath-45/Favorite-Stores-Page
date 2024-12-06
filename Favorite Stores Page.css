@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #894bca;
+    background-size: cover;
+    height: 45vh;
+    width: 100vw;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #ffffff;
+    padding: 30px;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.bg-bot-container {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.head1 {
+    color: #f780c3;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.img {
+    padding: 20px;
+    height: 100px;
+    width: 110px;
+}
+
+.store-head {
+    font-size: 20px;
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+.store-para {
+    font-size: 13px;
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
